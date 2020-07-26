@@ -9,3 +9,5 @@ These records bring together the collected knowledge of the Xenos races inhabiti
 ## References
 <a id="1">[1]</a> 
 Warhammer Studio. (2020). *Warhammer 40,000: Core Book (ENG) (9th Edition)*. Games Workshop Ltd, Nottingham, England.
+
+[Disclaimer](https://github.com/Ordo-Xenos/Legal)
