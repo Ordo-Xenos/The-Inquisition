@@ -6,6 +6,42 @@ The Ordo Xenos study, exploit and eradicate the alien. Most Ordo Xenos Inquisito
 
 These records bring together the collected knowledge of the Xenos races inhabiting the known galaxy. Hated and reviled by the Imperium, they are in a constant battle for survival and conquest amidst the endless galactic war.[[1]](#1)
 
+## XENOS THREAT
+AELDARI</br>
+TRANSMISSION INITIATED</br>
+DATE &lt;TERRAN STANDARD&gt;:7232998.M 41</br>
+INQUISITORIAL REFERENCE LINK: [IX-A7239424.16](https://github.com/Ordo-Xenos/Aeldari)
+
+>EXTRACT: The Aeldari empire once spanned the entire galaxy. As there technology developed and advanced over many millennia they became masters of war, able to defeat the deadliest of foes. Yet for all the external threats they were able to repel, it was the decadance from within that was their undoing, the Fall resulted in the once strong Aeldari race fragmenting into various factions and most notably resulting in the birth of the Chaos god Slaanesh.
+
+NECRON</br>
+TRANSMISSION INITIATED</br>
+DATE &lt;TERRAN STANDARD&gt;:7129868.M 41</br>
+INQUISITORIAL REFERENCE LINK: [FJ-Q4819812.04](https://github.com/Ordo-Xenos/Necron)
+
+>EXTRACT: NULL
+
+ORKS</br>
+TRANSMISSION INITIATED</br>
+DATE &lt;TERRAN STANDARD&gt;:7219621.M 41</br>
+INQUISITORIAL REFERENCE LINK: [KM-E0134512.71](https://github.com/Ordo-Xenos/Orks)
+
+>EXTRACT: NULL
+
+TAU</br>
+TRANSMISSION INITIATED</br>
+DATE &lt;TERRAN STANDARD&gt;:7087364.M 41</br>
+INQUISITORIAL REFERENCE LINK: [OG-Y6382912.36](https://github.com/Ordo-Xenos/Tau)
+
+>EXTRACT: NULL
+
+TYRANIDS</br>
+TRANSMISSION INITIATED</br>
+DATE &lt;TERRAN STANDARD&gt;:7156983.M 41</br>
+INQUISITORIAL REFERENCE LINK: [CN-Z5294104.09](https://github.com/Ordo-Xenos/Tyranids)
+
+>EXTRACT: NULL
+
 ## References
 <a id="1">[1]</a> 
 Warhammer Studio. (2020). *Warhammer 40,000: Core Book (ENG) (9th Edition)*. Games Workshop Ltd, Nottingham, England.
